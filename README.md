@@ -1,4 +1,6 @@
 # DemoLeaflet
+Proyecto para el manejo de mapas interactivos con Leaflet y Angular
+En este proyecto se está usando leaflet versión 1.9.4 y @types/leaflet 1.9.12
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
